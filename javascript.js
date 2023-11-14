@@ -1,0 +1,1 @@
+const text = documnent.getElementById('text');
