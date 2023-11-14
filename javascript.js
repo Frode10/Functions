@@ -1,1 +1,1 @@
-const text = documnent.getElementById('text');
+const text = document.getElementById('text');
